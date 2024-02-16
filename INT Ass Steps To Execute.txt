@@ -1,0 +1,15 @@
+BACKEND
+
+Step 1:- Run backend as -- {   node form.js   }
+Step 2:- And post the data from postman in the format json {  name,email,contact  } 
+         And the url past to post data is {  https://localhost:3000/submit   }
+         If You want To See the Details Then by using this url you can get the details which you Posted the data {  https://localhost:3000/entries  }
+
+
+FRONTEND
+
+Step 1:- {click on Go live} which is available in right hand side on bottom of the page.
+          Then it redirects to the browser there you can submit the details and then  you can check the data in postman whether the data is submited or not 
+          By using this {  https://localhost:3000/entries  }.
+
+Note:- If you want to Start the Execution , After running the backend file then run the frontend file.
