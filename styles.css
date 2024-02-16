@@ -1,0 +1,52 @@
+.error {
+    color: red;
+}
+body{
+    background-color: rgb(207, 240, 130);
+}
+h1{
+    text-align:center;
+    margin-top: 100px;
+}
+#userForm{
+    margin: 0;
+    background-color: #ee93c5; 
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+    /* display:flex; */
+    align-items:center;
+    /* margin-left:550px;  */
+    box-shadow:rgba(132, 218, 239, 0.1);
+    position:absolute;
+    top:30%;
+    left:37%;
+}
+label {
+    display: block; 
+    margin-bottom: 10px; 
+}
+input[type="text"],
+input[type="email"],
+button[type="submit"] {
+    width: 100%; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 3px; 
+    box-sizing: border-box; 
+}
+button[type="submit"] {
+    background-color: #4caf50; 
+    color: #ffffff; 
+    cursor: pointer; 
+}
+button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+#confirmation {
+    text-align: center; 
+    margin-top: 450px;
+     
+}
